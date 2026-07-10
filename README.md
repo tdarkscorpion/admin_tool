@@ -12,7 +12,7 @@ A premium, high-performance desktop administration panel designed specifically f
 
 <div align="center">
 
-[![Download Admin Tool](https://img.shields.io/badge/⬇%20DOWNLOAD%20ADMIN%20TOOL-v1.0.2-brightgreen?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a1a2e&color=27ae60)](https://github.com/tdarkscorpion/admin_tool/raw/main/Admin%20Tool.exe)
+[![Download Admin Tool](https://img.shields.io/badge/⬇%20DOWNLOAD%20ADMIN%20TOOL-v1.0.4-brightgreen?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a1a2e&color=27ae60)](https://github.com/tdarkscorpion/admin_tool/raw/main/Admin%20Tool.exe)
 
 **Windows 10 / 11 &nbsp;•&nbsp; 64-bit &nbsp;•&nbsp; No Installation Required &nbsp;•&nbsp; Auto-Updating**
 
